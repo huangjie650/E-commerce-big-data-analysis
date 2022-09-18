@@ -25,8 +25,7 @@ import org.apache.spark.sql.types.StructType;
  */
 public class MockData {
 
-	/**
-	 * 弄你数据
+	/**	 
 	 * @param sc
 	 * @param sqlContext
 	 */
